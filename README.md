@@ -1,9 +1,11 @@
-Requirements
+<b>Requirements</b>
 
 Node.js
-Installation Steps
 
-Clone repo
-Run npm install
-Run npm run build
-Open index.html in your browser
+<b>Installation Steps</b>
+<ul>
+  <li>Clone repo</li>
+  <li>Run npm install</li>
+  <li>Run npm run build</li>
+  <li>Open index.html in your browser</li>
+</ul>
