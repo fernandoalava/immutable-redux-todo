@@ -1,2 +1,9 @@
-# immutable-redux-todo
-React + Redux ToDo based on https://github.com/sitepoint-editors/immutable-redux-todo
+Requirements
+
+Node.js
+Installation Steps
+
+Clone repo
+Run npm install
+Run npm run build
+Open index.html in your browser
